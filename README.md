@@ -1,14 +1,14 @@
-# Read Me First
-The following was discovered as part of building this project:
+<h1 align="center"> 💻 Api Feita na Semana Deev Week Santander 2ª edição</h1>
 
-* The original package name 'com.dio.santander.bankline-api' is invalid and this project uses 'com.dio.santander.banklineapi' instead.
+💻 Nesse desafio você vai construir um sistema bancário do zero utilizando Java:
 
-# Getting Started
-
-### Reference Documentation
-For further reference, please consider the following sections:
-
-* [Official Apache Maven documentation](https://maven.apache.org/guides/index.html)
-* [Spring Boot Maven Plugin Reference Guide](https://docs.spring.io/spring-boot/docs/2.6.7/maven-plugin/reference/html/)
-* [Create an OCI image](https://docs.spring.io/spring-boot/docs/2.6.7/maven-plugin/reference/html/#build-image)
-
+---
+##  ✨Tecnologias
+- <b>Java</b>
+- <b>Spring Boot 5.7.37</b>
+- <b>PostgreSQL</b>
+- <b>EclipseIDE</b>
+- <b>Swagger</b>
+- <b>Heroku</b>
+- <b>hibernate</b>
+---
